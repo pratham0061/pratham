@@ -1,0 +1,12 @@
+{
+    "Age": 0,
+    "gender": {
+        "male": 11,
+        "female": 10,
+        "others": 10
+    },
+    "validPhoneNumbers": 19,
+    "appointments": 31,
+    "medicines": 0,
+    "activeMedicines": 0
+}
